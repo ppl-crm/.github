@@ -4,7 +4,7 @@
 
 ppl is a personal CRM for contacts, relationship notes, birthdays and follow-ups. Work in the browser, or connect an AI assistant to the records you authorize it to access.
 
-[Open ppl](https://withppl.com) · [Connect an agent](https://withppl.com/agents) · [Developer guides](https://ppl-crm.github.io) · [Smithery](https://smithery.ai/servers/ppl/ppl)
+[Open ppl](https://withppl.com) · [Connect an agent](https://withppl.com/agents) · [Developer guides](https://ppl-crm.github.io) · [Smithery](https://smithery.ai/servers/ppl/ppl) · [DEV](https://dev.to/ppl_crm)
 
 The hosted beta is free for up to 1,000 contacts, with no credit card required. A self-hosted version is coming soon.
 
