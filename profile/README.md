@@ -13,6 +13,7 @@ The hosted beta is free for up to 1,000 contacts, with no credit card required. 
 - [Public integration documentation and Python/Node examples](https://github.com/ppl-crm/ppl)
 - [OAuth and MCP connection guide](https://ppl-crm.github.io/connect.html)
 - [ppl-memory framework adapters](https://github.com/ppl-crm/ppl-memory)
+- [Interactive fictional-contact demo](https://huggingface.co/spaces/dbhurley/ppl-personal-crm)
 - [Client guides and free contact tools](https://withppl.com/resources)
 
 The MCP endpoint is `https://withppl.com/mcp`. Use the owner-approved connection flow and store credentials securely. The official MCP Registry name is `io.github.ppl-crm/ppl`.
